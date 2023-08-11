@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Amina Adzhieva 👋
 
-<!--
-**aminaadzhieva/aminaadzhieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Data Scientist, Doctor and Traveller!
+- 🔭 Now I'm working on my portfolio.
+- 🥅 2023 Goals: To find a great job in DS 🔥
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img align="left" alt="amina | Twitter" width="22px" src="https://t.me/adzhievaamina" />][telegram]
+[<img align="left" alt="amina | Instagram" width="22px" src="https://instagram.com/a.r.adzhieva?igshid=MmIzYWVlNDQ5Yg==" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+###### DevOps Tools:
+Python
+
+###### Databases: 
+PostgreSQL, MySQL
+
+
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+
+
+[telegram]: https://t.me/adzhievaamina
+[instagram]: https://www.instagram.com/amina/
