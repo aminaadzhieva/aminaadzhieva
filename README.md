@@ -2,7 +2,7 @@
 
 ## I'm Data Scientist, Doctor and Traveller!
 - 🔭 Now I'm working on my portfolio.
-- 🥅 2023 Goals: To find a great job in DS 🔥
+- 🥅 2024 Goals: To find a great job in DS 🔥
 
 ### Connect with me:
 [<img align="left" alt="mailto: amisha.adzhieva@gmail.com | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
