@@ -1,6 +1,6 @@
 ### Hi there, I'm Amina Adzhieva 👋
 
-## I'm Data Scientist, Doctor and Traveller!
+## I'm a Data Scientist, Doctor and Traveller!
 - 🔭 Now I'm working on my portfolio.
 - 🥅 2024 Goals: To find a great job in DS 🔥
 
